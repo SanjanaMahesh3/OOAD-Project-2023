@@ -1,6 +1,6 @@
 # Grab A Cab
 Cab Management System done by:
-Sai Shruthi Shahshidhar - PES1UG20CS367
+Sai Shruthi Shashidhar - PES1UG20CS367
 Sakshi Birthi- PES1UG20CS369
 Sanjana Mahesh- PES1UG20CS377
 Sanskriti Mathuria- PES1UG20CS386
